@@ -1,2 +1,2 @@
 # LoginLogoutTracker
-simple app written in python using CHATGPT
+simple app written in python - guided by CHATGPT
